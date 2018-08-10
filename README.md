@@ -11,6 +11,8 @@ So happy, you know
 I write this blog to build my mind, and share knowledge for you. Some of them can be my opinion, so please find out and help me improve. 
 
 Thank you for reading! 
+---
 
-    picture: [hasuki](https://pre00.deviantart.net/ee05/th/pre/i/2014/116/e/b/commission__h_hasuki_by_crispygray-d7g0mh5.jpg)
+
+picture: https://pre00.deviantart.net/ee05/th/pre/i/2014/116/e/b/commission__h_hasuki_by_crispygray-d7g0mh5.jpg
  
