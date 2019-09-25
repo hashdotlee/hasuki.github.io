@@ -1,1 +1,13 @@
 theme: jekyll-theme-minimal
+#set a logo that will be display instead of the title
+logo: "/assets/images/logo.png"
+#enable or disable site search
+search_enabled: true
+#enable support for hyphenated search words: search_tokenizer_separator: /[\s]+/
+#Aux links for the upper right navigation
+aux_links: 
+"follow me on Github": 
+- "//github.com/hasuki"
+#heading anchor links
+heading_anchors:true
+color_scheme: "dark"
